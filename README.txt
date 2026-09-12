@@ -1,7 +1,7 @@
 
 
            WALKER 
-           A FLOAT 
+           A FLOATER 
 
 
            Publishing 
